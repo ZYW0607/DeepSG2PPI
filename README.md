@@ -17,9 +17,11 @@ GPU acceleration uses CUDA11.2 version, and the corresponding cuDNN version is 8
 
 # Data needed to train the model
 
-Download URL of protein sequence and PPI network data:https://cn.string-db.org/cgi/download
-The relationship file download URL between GO terms:http://geneontology.org/docs/download-ontology/
-Data download link between protein and GO term:https://www.uniprot.org/uniprotkb
+Download URL of protein sequence and PPI network data:https://cn.string-db.org/cgi/download.
+
+The relationship file download URL between GO terms:http://geneontology.org/docs/download-ontology/.
+
+Data download link between protein and GO term:https://www.uniprot.org/uniprotkb.
 
 
 # Train with your own data
