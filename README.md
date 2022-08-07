@@ -37,7 +37,7 @@ After the data is encoded, three .npy files will be obtained (respectively, prot
 
 The trained model Trained_model.h5 is uploaded in this repository.If you want to use the model to predict your own test data, you must prepare the test data as a .txt (or .csv) file with one proteinName per line.
 
-The PPI_forecast.py file is then run to predict whether all possible protein pair combinations in the file have interactions.The prediction results will output a protein pair file PP_interaction.txt with interactions (where each line represents a protein pair with interactions, and the two proteins are separated by tabs), and a protein pair file PP_noninteraction.txt without interactions ( Each row represents a protein pair that has no interaction, and the two proteins are separated by the same tab).
+In the Predict folder, the PPI_forecast.py file is then run to predict whether all possible protein pair combinations in the file have interactions. Of course, you can also predict specific protein pairs with PPI_forecast_p-p.py. The prediction results will output a protein pair file PP_interaction.txt with interactions (where each line represents a protein pair with interactions, and the two proteins are separated by tabs), and a protein pair file PP_noninteraction.txt without interactions ( Each row represents a protein pair that has no interaction, and the two proteins are separated by the same tab).
 
 
 # Contact
