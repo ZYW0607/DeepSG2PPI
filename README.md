@@ -46,12 +46,19 @@ Please cite our paper if you use this code in your own work:
 Fan Zhang, Yawei Zhang, Xiaoke Zhu, Xiaopan Chen, Fuhao Lu, and Xinhong Zhang. Deepsg2ppi: A protein-protein interaction prediction method based on deep learning. IEEE/ACM Transactions on Computational Biology and Bioinformatics, pages 1–14, 2023. https://doi.org/10.1109/TCBB.2023.3268661
 
 @article{zhang2023DeepSG2PPI,
+
   author = {Zhang, Fan and Zhang, Yawei and Zhu, Xiaoke and Chen, Xiaopan and Lu, Fuhao and Zhang, Xinhong},
+  
   year ={2023},
+  
   pages ={1--14},
+  
   title = {DeepSG2PPI: A Protein-Protein Interaction Prediction Method Based on Deep Learning},
+  
   journal ={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+  
   doi = {https://doi.org/10.1109/TCBB.2023.3268661}
+  
 }
 
 # Contact
