@@ -43,7 +43,7 @@ In the Predict folder, the PPI_forecast.py file is then run to predict whether a
 
 Please cite our paper if you use this code in your own work:
 
-Fan Zhang, Yawei Zhang, Xiaoke Zhu, Xiaopan Chen, Fuhao Lu, and Xinhong Zhang. Deepsg2ppi: A protein-protein interaction prediction method based on deep learning. IEEE/ACM Transactions on Computational Biology and Bioinformatics, pages 1–14, 2023. https://doi.org/10.1109/TCBB.2023.3268661
+Fan Zhang, Yawei Zhang, Xiaoke Zhu, Xiaopan Chen, Fuhao Lu, and Xinhong Zhang. DeepSG2PPI: A protein-protein interaction prediction method based on deep learning. IEEE/ACM Transactions on Computational Biology and Bioinformatics, pages 1–14, 2023. https://doi.org/10.1109/TCBB.2023.3268661
 
 @article{zhang2023DeepSG2PPI,
 
