@@ -39,6 +39,20 @@ The trained model Trained_model.h5 is uploaded in this repository.If you want to
 
 In the Predict folder, the PPI_forecast.py file is then run to predict whether all possible protein pair combinations in the file have interactions. Of course, you can also predict specific protein pairs with PPI_forecast_p-p.py. The prediction results will output a protein pair file PP_interaction.txt with interactions (where each line represents a protein pair with interactions, and the two proteins are separated by tabs), and a protein pair file PP_noninteraction.txt without interactions ( Each row represents a protein pair that has no interaction, and the two proteins are separated by the same tab).
 
+# Cite
+
+Please cite our paper if you use this code in your own work:
+
+Fan Zhang, Yawei Zhang, Xiaoke Zhu, Xiaopan Chen, Fuhao Lu, and Xinhong Zhang. Deepsg2ppi: A protein-protein interaction prediction method based on deep learning. IEEE/ACM Transactions on Computational Biology and Bioinformatics, pages 1–14, 2023. https://doi.org/10.1109/TCBB.2023.3268661
+
+@article{zhang2023DeepSG2PPI,
+  author = {Zhang, Fan and Zhang, Yawei and Zhu, Xiaoke and Chen, Xiaopan and Lu, Fuhao and Zhang, Xinhong},
+  year ={2023},
+  pages ={1--14},
+  title = {DeepSG2PPI: A Protein-Protein Interaction Prediction Method Based on Deep Learning},
+  journal ={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+  doi = {https://doi.org/10.1109/TCBB.2023.3268661}
+}
 
 # Contact
 
