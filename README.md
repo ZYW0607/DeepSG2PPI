@@ -41,25 +41,22 @@ In the Predict folder, the PPI_forecast.py file is then run to predict whether a
 
 # Cite
 
-Please cite our paper if you use this code in your own work:
+If you find  ***DeepSG2PPI***  useful for your research, please consider citing the following paper:
 
 Fan Zhang, Yawei Zhang, Xiaoke Zhu, Xiaopan Chen, Fuhao Lu, and Xinhong Zhang. DeepSG2PPI: A protein-protein interaction prediction method based on deep learning. IEEE/ACM Transactions on Computational Biology and Bioinformatics, pages 1–14, 2023. https://doi.org/10.1109/TCBB.2023.3268661
 
+```
 @article{zhang2023DeepSG2PPI,
-
   author = {Zhang, Fan and Zhang, Yawei and Zhu, Xiaoke and Chen, Xiaopan and Lu, Fuhao and Zhang, Xinhong},
-  
   year ={2023},
-  
   pages ={1--14},
-  
   title = {DeepSG2PPI: A Protein-Protein Interaction Prediction Method Based on Deep Learning},
-  
   journal ={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
-  
-  doi = {https://doi.org/10.1109/TCBB.2023.3268661}
-  
+  doi = {https://doi.org/10.1109/TCBB.2023.3268661}  
 }
+```
+
+
 
 # Contact
 
